@@ -1,0 +1,4 @@
+int,date,double,bool,string
+COLNUM,DATE,VALUE,T/F,COMMENTS
+1,10/15/21,54.8,0,Needs Help
+2,10/16/21,55.6,1,Does not need help
